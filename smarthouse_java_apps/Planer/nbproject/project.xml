@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.clientproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/car-project/1">
+            <name>Planer</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+            <included-library dirs="200">file.reference.annotations-13.0.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-1.4.21.jar</included-library>
+            <included-library dirs="200">file.reference.kotlin-stdlib-common-1.4.10.jar</included-library>
+            <included-library dirs="200">file.reference.okhttp-5.0.0-alpha.2.jar</included-library>
+            <included-library dirs="200">file.reference.okio-2.9.0.jar</included-library>
+            <included-library dirs="200">file.reference.org.json-chargebee-1.0.jar</included-library>
+            <included-library dirs="200">file.reference.commons-lang3-3.11-javadoc.jar</included-library>
+            <included-library dirs="200">file.reference.commons-lang3-3.11-sources.jar</included-library>
+            <included-library dirs="200">file.reference.commons-lang3-3.11-test-sources.jar</included-library>
+            <included-library dirs="200">file.reference.commons-lang3-3.11-tests.jar</included-library>
+            <included-library dirs="200">file.reference.commons-lang3-3.11.jar</included-library>
+            <included-library dirs="200">file.reference.javax.persistence-2.1.0.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.antlr-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.asm-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.core-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.jpql-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.org.eclipse.persistence.jpa.modelgen.processor-2.5.2.jar</included-library>
+            <included-library dirs="200">file.reference.mysql-connector-java-8.0.23.jar</included-library>
+        </data>
+    </configuration>
+</project>
